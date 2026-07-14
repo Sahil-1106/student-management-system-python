@@ -1,0 +1,26 @@
+[
+    {
+        "student_id": "S001",
+        "name": "Md Sahil Manzoor",
+        "age": 20,
+        "course": "Computer Science"
+    },
+    {
+        "student_id": "S002",
+        "name": "Prattay",
+        "age": 21,
+        "course": "Information Technology"
+    },
+    {
+        "student_id": "S003",
+        "name": "Pawas",
+        "age": 19,
+        "course": "Data Science"
+    },
+    {
+        "student_id": "S004",
+        "name": "Kanishk",
+        "age": 22,
+        "course": "Electronics Engineering"
+    }
+]
